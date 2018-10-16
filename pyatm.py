@@ -1,4 +1,4 @@
-#Calcolo proprietà atmosfera standard
+#Standard Atmosphere Properties Calculator
 
 import numpy as np
 import matplotlib as plt
